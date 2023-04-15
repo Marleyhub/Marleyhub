@@ -1,7 +1,7 @@
-<h1> Oi! Meu nome é Gabriel Marley </h1>
+<h1>Gabriel Marley </h1>
 
 <h3> . Desenvolverdor Back-end <br></h3>
-<h3> . Atualmente estudando JavaScript | Node.js | mySql <h3>
+<h3> . Atualmente estudando C | Java | MongoDB <h3>
 
 
 <div align="center">
